@@ -1,0 +1,2 @@
+# Tyrese Naidoo portfolio
+Static website. Open index.html locally or enable GitHub Pages from the main branch, root folder. Commit edits to HTML, CSS and JavaScript. Keep the previews folder and original documents together; regenerate the PDF previews when updating Word documents. Google-hosted previews require the relevant sharing permissions. Review the CV contact details and course invitation link before publishing publicly.
